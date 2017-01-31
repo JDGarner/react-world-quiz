@@ -1,7 +1,7 @@
-React Skeleton App
+React World Quiz
 ---
 
-Basic React starter project
+Geographical quiz app built with React (currently only capitals)
 
 
 Usage
